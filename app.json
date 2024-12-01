@@ -1,4 +1,7 @@
 {
   "name": "AppAgil",
-  "displayName": "AppAgil"
+  "displayName": "AppAgil",
+  "plugins": [
+    "expo-sqlite"
+  ]
 }
